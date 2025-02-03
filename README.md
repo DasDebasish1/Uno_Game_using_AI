@@ -1,4 +1,5 @@
-# How to Play
+### Built a feature-rich UNO game using Python and Pygame, offering immersive animations and intuitive gameplay with multiplayer mode of up to 8 players and adjustable difficulty levels.
+## How to Play
 
 1. To run the game, you must clone the repository to your local system.
 2. Now in your terminal head to the location of the `pygame-uno` directory you cloned.
@@ -42,7 +43,7 @@ Once in the game, you are met by this screen. Discard pile to the left, Draw to 
 <img src="screenshots/select_wild.png" alt="Select the colour when playing wild card">
 
 ### Shout Uno
-<div>We're nearing the endgame now. Be sure to shout 'UNO' before you play your final card or you will be subject to punishment. Via cards, nothing scary.</div>
+<div>We're nearing the endgame now. Be sure to shout 'UNO' before you play your final card or you will be subject to punishment. Via cards, nothing scary😃 </div>
 
 <img src="screenshots/shout.png" alt="Shout uno button on last card">
 
@@ -52,8 +53,8 @@ Once in the game, you are met by this screen. Discard pile to the left, Draw to 
 </div>
 <img src="screenshots/CPU_win.png" alt="Gameover screen showing winner and score">
 
-<sup>note the screenshots were taken from various games</sup>
+<sup>**Note**: the screenshots were taken from various games</sup>
 
-**Oh and another thing. If you wish to quit at any point during the game, just press the massive [X] in the top right of the screen.**
+**Oh and another thing. If you wish to quit at any point during the game, just press the massive [X] in the top right of the screen.** 🎉
 
-### **Enjoy your gaming!**
+### **Enjoy your gaming!**🏆
